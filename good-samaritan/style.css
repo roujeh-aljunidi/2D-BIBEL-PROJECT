@@ -11,7 +11,7 @@ body {
 }
 
 #game {
-    color: #222;
+    color: #000000;
     width: 80%;
     max-width: 700px;
     backdrop-filter: blur(12px);
