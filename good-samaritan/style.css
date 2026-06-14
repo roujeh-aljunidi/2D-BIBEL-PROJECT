@@ -21,9 +21,9 @@ body {
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
 }
 
-subtitle {
+.subtitle {
     font-style: italic;
-    color: #555;
+    color: #000000;
     margin-bottom: 30px;
 }
 
